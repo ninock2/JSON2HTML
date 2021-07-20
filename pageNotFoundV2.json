@@ -1,0 +1,21 @@
+{
+	"head": {
+		"meta": {
+			"charset": "utf-8",
+			"viewport": {
+				"initial-scale": 1,
+				"width": "device-width"
+			}
+		},
+		"title": "Page Not Found"
+	},
+	"body": {
+		"h1": "Page Not Found",
+		"div": {
+			"myTag" : {
+				"p": "Sorry, but the page you were trying to view does not exist."
+			}
+		}
+	},
+	"doctype": "html"
+}

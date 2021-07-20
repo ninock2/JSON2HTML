@@ -1,0 +1,41 @@
+{
+	"doctype": "html",
+	"language": "en",
+	"head": {
+		"meta": {
+			"charset": "utf-8",
+			"keywords": "JSON, HTML, transform"
+		},
+		"link" : [
+			{
+				"href": "style.css",
+				"rel": "stylesheet",
+				"type": "text/css"
+			},
+			{
+				"rel": "icon",
+				"href": "icon.ico"
+			}
+		],
+		"title": "Hello World v10"
+	},
+	"body": {
+		"attributes" : {
+			"id": "42",
+			"style" : {
+				"width" : "80%",
+				"height" : "10px",
+				"text-align": "center"
+			}
+		},
+		"h1": "Json-Generated HTML page",
+		"p": "Example HTML file generated from JSON.", 
+		"h2": "Imagine smart subtitle here",
+		"div":{
+			"attributes" : {
+				"class": "nested"
+			},
+			"h3": "Nesting supported"
+		}
+	}
+}
