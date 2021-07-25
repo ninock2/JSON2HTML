@@ -1,4 +1,17 @@
 # JSON2HTML
-JSON to HTML converter written in php. Converter has simplistic UI and is written in Slovene, my native language.
+JSON to HTML converter written in php with simplistic GUI. Converter is written in Slovene, my native language.
 
-Converter is still in progress. Next steps are automatization and translation to english.
+Versions:
+
+- 1.0 -> Converter that works only on test files. (Slovene)
+- 2.0 -> Converter that works on most of JSON files with proper structure. (Slovene)
+
+NOTE: 
+
+- JSON file that you want to convert has to be in the same folder as index.php.
+- HTML file will be automaticly created and placed in the same folder as index.php. HTML file will be named ConvertedFile.html after running converter. 
+
+Next steps:
+
+- translate converter to English
+- fixing indetation of closing tags
