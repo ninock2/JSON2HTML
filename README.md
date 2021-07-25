@@ -11,3 +11,4 @@ NOTE: JSON file that you want to convert has to be in the same folder as index.p
 Next steps:
 
 - translate converter to English
+- fixing indetation of closing tags
