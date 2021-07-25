@@ -9,7 +9,7 @@ Versions:
 NOTE: 
 
 - JSON file that you want to convert has to be in the same folder as index.php.
-- HTML file will be automaticly created in the same folder as index.php and is named ConvertedFile.html. 
+- HTML file will be automaticly created and placed in the same folder as index.php. HTML file will be named ConvertedFile.html after running converter. 
 
 Next steps:
 
