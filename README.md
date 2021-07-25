@@ -3,8 +3,9 @@ JSON to HTML converter written in php with simplistic GUI. Converter is written 
 
 Versions:
 
-- 1.0 -> Converter that works only on test files. (Slovene)
-- 2.0 -> Converter that works on most of JSON files with proper structure. (Slovene)
+- JSON2HTML_1.0 -> Converter that works only on test files. (Slovene)
+- JSON2HTML_2.0 -> Converter that works on most of JSON files with proper structure. (Slovene)
+- JSON2HTML_3.0 -> Converter that works on most of JSON files with proper structure written in English.
 
 NOTE: 
 
@@ -13,5 +14,4 @@ NOTE:
 
 Next steps:
 
-- translate converter to English
 - fixing indetation of closing tags
